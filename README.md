@@ -13,6 +13,12 @@ However, the n queens problem places n queens on an n×n chessboard.
 
 ![image](https://github.com/kctoayo88/eight_queens_puzzle/blob/master/readme/eight_queen_problem.png)
 
+## Demonstration
+
+Take 4 queens problem for a example:
+
+![ans1](https://github.com/kctoayo88/eight_queens_puzzle/blob/master/readme/ans1.PNG)
+![ans2](https://github.com/kctoayo88/eight_queens_puzzle/blob/master/readme/ans2.PNG)
 
 ## Reference
 
