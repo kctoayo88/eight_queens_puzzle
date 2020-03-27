@@ -23,4 +23,4 @@ Take 4 queens problem for an example:
 
 ## Reference
 
-[1] The eight queens puzzle problem of Wikipedia page. (https://en.wikipedia.org/wiki/Eight_queens_puzzle)
+[1] The Wikipedia page of eight queens puzzle problem. (https://en.wikipedia.org/wiki/Eight_queens_puzzle)
